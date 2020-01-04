@@ -25,7 +25,6 @@ def assembled_matrix
     ORGANIC_PRODUCE,
     CONVENTIONAL_PRODUCE
   ]
-  return array
 end
 
 def sorted_matrix
