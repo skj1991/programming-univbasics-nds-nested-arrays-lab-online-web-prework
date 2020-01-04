@@ -25,7 +25,7 @@ end
 
 def sorted_matrix
   array = [
-    CONVENTIONAL_PRODUCE,
+    CONVENTIONAL_PRODUCE.sort,
     ORGANIC_PRODUCE.sort
   ]
 end
